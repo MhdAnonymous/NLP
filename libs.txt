@@ -1,0 +1,8 @@
+# librosa
+pip install librosa
+
+# matplotlib
+sudo apt install python-matplotlib
+
+# ipython
+sudo apt install ipython ipython-notebook
